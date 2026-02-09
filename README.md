@@ -1,6 +1,5 @@
 
 
-```markdown
 <!-- ================================================= -->
 <!--              PROJECT BANNER                      -->
 <!-- ================================================= -->
@@ -16,7 +15,7 @@ Sequential and Random sampling strategies on a real-world banking dataset.
 
 </div>
 
----
+
 
 ## Project Overview
 
@@ -30,13 +29,13 @@ to evaluate model stability and performance.
 
 </div>
 
----
+
 
 ## Repository Structure
 
 <div style="border-left:6px solid #2ecc71; background:#edfff5; padding:15px; border-radius:6px;">
 
-```
+
 
 Logistic-Random-Sequential
 │
@@ -47,11 +46,10 @@ Logistic-Random-Sequential
 ├── logistic.pkl
 └── README.md
 
-````
+
 
 </div>
 
----
 
 ## Technologies Used
 
@@ -67,7 +65,7 @@ Logistic-Random-Sequential
 
 </div>
 
----
+
 
 ## Dataset Information
 
@@ -92,7 +90,7 @@ Target Variable:
 
 </div>
 
----
+
 
 ## Installation and Setup
 
@@ -120,7 +118,6 @@ pip install numpy pandas scikit-learn matplotlib jupyter
 
 </div>
 
----
 
 ## How to Run
 
@@ -150,7 +147,7 @@ Logistic-Random-Sequential.ipynb
 
 </div>
 
----
+
 
 ## Model Workflow
 
@@ -202,7 +199,6 @@ across sampling strategies.
 
 </div>
 
----
 
 ## Model Storage
 
@@ -245,7 +241,7 @@ Recommended Enhancements:
 
 </div>
 
----
+
 
 ## Future Improvements
 
@@ -261,7 +257,7 @@ Planned Enhancements:
 
 </div>
 
----
+
 
 ## Contribution Guidelines
 
@@ -277,7 +273,6 @@ Maintain clean code and documentation.
 
 </div>
 
----
 
 ## License
 
@@ -289,7 +284,7 @@ Add an open-source license if distribution is planned.
 
 </div>
 
----
+
 
 ## Author
 
@@ -304,7 +299,7 @@ Use GitHub Issues for support and collaboration.
 
 </div>
 
----
+
 
 ## Project Status
 
