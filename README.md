@@ -1,20 +1,6 @@
 ......... 
 
-<!-- ================================================= -->
-<!--              PROJECT BANNER                      -->
-<!-- ================================================= -->
-
-<div align="center" style="background:linear-gradient(90deg,#0f2027,#203a43,#2c5364); padding:40px; border-radius:10px; color:white;">
-
-<h1>Logistic-Random-Sequential</h1>
-
-<p>
-A Machine Learning project implementing Logistic Regression using
-Sequential and Random sampling strategies on a real-world banking dataset.
-</p>
-
-</div>
-
+<!-- 
 
 
 ## Project Overview
