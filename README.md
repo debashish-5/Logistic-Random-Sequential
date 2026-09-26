@@ -5,38 +5,7 @@
 
 ## Project Overview
 
-<div style="border-left:6px solid #3498db; background:#ecf6ff; padding:15px; border-radius:6px;">
-
-This repository demonstrates the application of Logistic Regression
-for binary classification using different data sampling techniques.
-
-The project compares Random Sampling and Sequential Sampling
-to evaluate model stability and performance.
-
-</div>
-
-
-
-## Repository Structure
-
-<div style="border-left:6px solid #2ecc71; background:#edfff5; padding:15px; border-radius:6px;">
-
-
-
-Logistic-Random-Sequential
-│
-├── .ipynb_checkpoints/
-├── AIML task 9.pdf
-├── Logistic-Random-Sequential.ipynb
-├── bank-full.csv
-├── logistic.pkl
-└── README.md
-
-
-
-</div>
-
-
+<div style="border-left:6px solid #3498db; 
 ## Technologies Used
 
 <div style="border-left:6px solid #9b59b6; background:#f7efff; padding:15px; border-radius:6px;">
